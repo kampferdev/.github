@@ -1,4 +1,4 @@
-<img src="https://github.com/kampferdev/.github/blob/main/logos/kampfer2x.png" width=200 alt="logo">
+<img src="https://github.com/kampferdev/.github/blob/main/assets/kampfer2x.png" width=250 alt="logo">
 
 ## Kampfer
 Kampfer is a **SaaS** building framework built on top of Flask and other powerful libraries, designed to streamline the development process for SaaS applications.
