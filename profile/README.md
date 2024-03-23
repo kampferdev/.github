@@ -2,10 +2,10 @@
 
 
 ## Kampfer 
-Kampfer is a **SaaS** building framework built on top of Flask and other powerful libraries, designed to streamline the development process for SaaS applications.
+Kampfer is a backend framework, designed to streamline the development process for backend applications. 
 
 ### Development - Work In Progress
-Kampfer is under active development, and we're constantly working to enhance its capabilities. It will be released soon.
+Kampfer is under active development, and we're constantly working to enhance its capabilities.
 
 ### Contributing
 Kampfer is in it's very early stages, for contributing, email me - `zayedmalickk@gmail.com`
