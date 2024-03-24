@@ -1,4 +1,4 @@
-<img src="https://github.com/kampferdev/.github/blob/main/assets/kampfer2x.png" width=250 alt="logo">
+<img src="https://github.com/kampferdev/.github/blob/main/assets/icon.png" width=50 alt="logo">
 
 
 ## Kampfer 
